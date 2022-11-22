@@ -1,4 +1,4 @@
-class Sample
+pulbic class Sample
 {
 public static void main()
 {
