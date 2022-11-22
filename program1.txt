@@ -1,1 +1,8 @@
-hello everyone
+class Sample
+{
+public static void main()
+{
+
+
+}
+}
